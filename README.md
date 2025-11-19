@@ -8,7 +8,7 @@
 - 🌱 Follow what I’m currently reading 📚 [here](https://info.diafora.io) ...
 - 💬 Ask me about 💰 Personal Finance, 🎨 Growth Marketing, 📈 Analytics and Data Engineering, LAMP Stack 🥞 ...
 
-<sub>Personal opinons of mine, though mostly fact based can be influenced by axioms. Facts along with all facets of their constraints resonate more with the engineer tinkerer, in me, than axioms. All that to say, all things I follow, read and subscribe to, as much as they are are debatable with facts and axioms, should be construed exactly as it says: **personal opinions only** 🍻.</sub>
+<sub>Personal opinons of mine, though mostly fact based can be influenced by axioms. Facts along with all facets of their constraints resonate more with the engineer/tinkerer, in me, than axioms. All that to say, all things I follow, read and subscribe to, as much as they are are debatable with facts and axioms, should be construed exactly as it says: **personal opinions only** 🍻.</sub>
 
 <br><br>
 [![trophy](https://github-profile-trophy.vercel.app/?username=coolcalbeans&margin-w=8&theme=nord)](https://github.com/coolcalbeans/github-profile-trophy)
