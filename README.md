@@ -6,38 +6,9 @@
 <br>
 
 - 🌱 Follow what I’m currently reading 📚 [here](https://info.diafora.io) ...
-- 💬 Ask me about 💰 Personal Finance, 🎨 Growth Marketing, 📈 Analytics and Data Engineering, LAMP Stack 🥞 ...
+- 💬 Ask me about 🤖 Emerging Technology, 💰 Finance, 🪙 Economics, 🌳 Investing, 🎨 Growth Marketing, 📈 Analytics, 💻 Information Science, LAMP Stack 🥞 ...
+- 🚥 Fair warning. I find myself woefully and painfully wrong about a lot of things in general about technology these days, that I smile 😊 and ground myself by re-reading this old article on [what is code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/), once in a while...
 
 <sub>Personal opinons of mine, though mostly fact based can be influenced by axioms. Facts along with all facets of their constraints resonate more with the engineer / tinkerer, in me, than axioms. All that to say all things I follow, read and subscribe to, as much as they are are debatable with facts and axioms, should be construed exactly as it says: **personal opinions only** 🍻.</sub>
 
 <br><br>
-[![trophy](https://github-profile-trophy.vercel.app/?username=coolcalbeans&margin-w=8&theme=nord)](https://github.com/coolcalbeans/github-profile-trophy)
-
-<br><br>
-![](https://github-readme-stats.vercel.app/api?username=coolcalbeans&theme=light&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=coolcalbeans&theme=light&hide_border=false)<br/>
-
-<br><br>
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coolcalbeans&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!--
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=dirambora&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coolcalbeans&langs_count=5&theme=tokyonight)]()
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=coolcalbeans&theme=light&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=coolcalbeans&langs_count=5&theme=tokyonight&include_all_commits=true&count_private=true&layout=compact)]()
--->
-
-<!--
-**coolcalbeans/coolcalbeans** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Finance, Marketing Analytics, LAMP Stack, Raspberry Pie
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
